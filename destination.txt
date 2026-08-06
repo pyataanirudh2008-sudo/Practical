@@ -1,0 +1,4 @@
+This is a source file.
+This file is created for Operating Systems lab.
+It demonstrates file copying using Linux system calls.
+The data will be copied from source.txt to destination.txt.
